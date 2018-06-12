@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="fx.png" />
+	<a href="http://FoelliX.de" target="_blank"><img src="fx.png" /></a>
 </p>
 
 # About
