@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="fx.png" />
+</p>
+
 # About
 
 Name:	*Felix Pauck*  
