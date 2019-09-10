@@ -51,10 +51,10 @@ I am a PhD student in the [Specification and Modelling of Software Systems](http
 - Github: [https://github.com/FoelliX/AQL-System](https://github.com/FoelliX/AQL-System)
 
 # Publications
-- *Together Strong: Cooperative Android App Analysis* (Felix Pauck, Heike Wehrheim)
+- Together Strong: Cooperative Android App Analysis
 	- F. Pauck, H. Wehrheim
-	- t.b.a.
-- Do Android Taint Analysis Tools Keep Their Promises? (Felix Pauck, Eric Bodden, Heike Wehrheim)
+	- ESEC/FSE, 2019
+- Do Android Taint Analysis Tools Keep Their Promises?
 	- F. Pauck, E. Bodden, H. Wehrheim
 	- ESEC/FSE, 2018
 - Validity of Software Verification Results on Approximate Hardware
