@@ -1,11 +1,10 @@
 # About
 <center>
 <a href="https://FelixPauck.de" target="_blank"><img src="me.jpg" width="200" style="border-radius:15px;" /></a>
-<a href="https://FoelliX.de" target="_blank"><img src="https://foellix.de/images/logo/fx_2021.jpg" width="200" style="border-radius:15px; margin-left: 15px;" /></a>
-
-*Felix Pauck* (FoelliX)  
-
-This personal website is **not** updated anymore. Please visit one of the links listed below for more information.
+<a href="https://FoelliX.de" target="_blank"><img src="https://foellix.de/images/logo/fx_2021.jpg" width="200" style="border-radius:15px; margin-left: 15px;" /></a><br />
+Felix Pauck (FoelliX)<br />
+<br />
+This personal website is <strong>not</strong> updated anymore. Please visit one of the links listed below for more information.
 </center>
 
 ## Links
